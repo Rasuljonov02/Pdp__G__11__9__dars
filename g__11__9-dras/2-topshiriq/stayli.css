@@ -1,0 +1,383 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kayak Sans";
+  color: black;
+}
+.dipa a {
+  text-decoration: none;
+}
+.dipa {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.home {
+  display: flex;
+  gap: 3rem;
+}
+.logo {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+}
+.login {
+  border: 1px solid #da5d1a;
+  border-radius: 5px;
+  padding: 8px 25px;
+  color: #da5d1a;
+}
+.kattaimg img {
+  height: 450px;
+}
+.collektion {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  background: #d37534;
+
+  border-radius: 20px;
+  width: 1200px;
+  height: 500px;
+  margin-left: 50px;
+  align-content: space-between;
+  align-items: center;
+}
+.kattaimg {
+  display: flex;
+}
+.off img {
+  height: 30px;
+  width: 30px;
+}
+.off {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10rem;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.kattaimg .off {
+  position: absolute;
+}
+.komka {
+  background-color: aliceblue;
+  padding: 10px;
+}
+.komka img {
+  margin-left: 15px;
+}
+.simple {
+  gap: 2rem;
+  padding: 10px;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.winter {
+  gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+a {
+  text-decoration: none;
+}
+.winter a {
+  background: #da5d1a;
+  border-radius: 5px;
+  color: aliceblue;
+  padding: 8px 25px;
+}
+.devile img {
+  width: 30px;
+  height: 30px;
+}
+.devile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.heyli {
+  position: absolute;
+  top: 250px;
+}
+.devile {
+  position: absolute;
+  left: 1000px;
+}
+.easy {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: aliceblue;
+  padding: 8px 25px;
+}
+.heyli {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  background-color: aliceblue;
+  padding: 8px 25px;
+}
+.get {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+.get img {
+  width: 100px;
+  height: 30px;
+}
+a:hover {
+  box-shadow: rgba(240, 85, 46, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px,
+    rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px,
+    rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.box {
+  text-align: center;
+  margin-top: 50px;
+}
+.dactabka {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-top: 50px;
+}
+.dactabka .payme {
+  background: #ffffff;
+  border: 1px solid #da5d1a;
+  border-radius: 5px;
+  padding: 20px;
+}
+.dactabka .suppurt {
+  background: #ffffff;
+  border: 1px solid rgba(218, 26, 26, 0.979);
+  border-radius: 5px;
+  padding: 20px;
+}
+.dactabka .free {
+  background: #ffffff;
+  border: 1px solid rgb(233, 13, 13);
+  border-radius: 5px;
+  padding: 20px;
+}
+.see {
+  margin-top: 40px;
+  padding: 8px 20px;
+  background: #da5d1a;
+  border-radius: 5px;
+  text-align: center;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 600px;
+}
+.just {
+  display: flex;
+  gap: 2rem;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.opalarrrr {
+  display: flex;
+  gap: 7rem;
+  margin-top: 20px;
+}
+.sidsa {
+  display: flex;
+  gap: 5rem;
+}
+.sidsa a {
+  border: 1px solid rgba(0, 0, 0, 0.589);
+  border-radius: 5px;
+  padding: 8px 25px;
+}
+.sidsa .wens {
+  background: #da5d1a;
+  border-radius: 5px;
+}
+.oura {
+  margin-left: 50px;
+}
+.kiyimlarr {
+  margin-top: 100px;
+  display: flex;
+  margin-left: 50px;
+  gap: 4rem;
+}
+.men {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.sen {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.j {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.ji {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.z {
+  display: flex;
+  gap: 1rem;
+}
+.zz {
+  display: flex;
+  gap: 1rem;
+}
+.toga {
+  border: 1px solid black;
+}
+.oya {
+  border: 1px solid black;
+  overflow: hidden;
+}
+.toga:hover {
+  box-shadow: rgba(50, 50, 93, 0.719) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.596) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.514) 0px -2px 6px 0px inset;
+}
+.oya:hover {
+  box-shadow: rgba(50, 50, 93, 0.719) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.596) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.514) 0px -2px 6px 0px inset;
+}
+.ola {
+  color: #da5d1a;
+}
+.l {
+  margin-left: 10px;
+}
+.aralash {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background: #4e2420e2;
+  margin-top: 50px;
+  height: 400px;
+}
+.satiq {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.aralashma {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.jakob p {
+  width: 250px;
+}
+.jakob {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.market {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.idis {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.sdff {
+  display: flex;
+  align-items: center;
+}
+hr {
+  border: 1px solid black;
+  width: 1200px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.all {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+.logotip {
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+}
+.tou {
+  background: #d49568;
+  border-radius: 5px;
+  padding-left: 80px;
+  height: 620px;
+}
+.justfor {
+  position: absolute;
+  left: 100px;
+  margin-top: 50px;
+}
+.upto {
+  position: absolute;
+  left: 100px;
+  margin-top: 380px;
+  background-color: #d32212;
+  padding: 30px;
+  border-radius: 60%;
+  text-align: center;
+}
+.upttto {
+  position: absolute;
+  left: 1000px;
+  margin-top: 130px;
+  background-color: #d32212;
+  padding: 30px;
+  border-radius: 60%;
+  text-align: center;
+}
+.kitkat {
+  background-color: #d37534;
+  height: 300px;
+  padding: 20px;
+  text-align: center;
+}
+img {
+  transition: 2s all;
+  cursor: pointer;
+}
+img:hover {
+  transform: scale(1.5);
+}

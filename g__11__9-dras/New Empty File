@@ -1,0 +1,174 @@
+
+    <br /><br /><br />
+    <div class="oura">
+      <h1>Our Product</h1>
+      <br /><br />
+      <span class="sidsa">
+        <a href="#">Mens<img class="l" src="./img/qora.svg" alt="" /> </a>
+        <a class="wens" href="#"
+          >Womens<img class="l" src="./img/oq.svg" alt="" />
+        </a>
+        <a href="#">Kids <img class="l" src="./img/qora.svg" alt="" /></a>
+        <a href="#">Others <img class="l" src="./img/qora.svg" alt="" /></a>
+      </span>
+    </div>
+    <div class="kiyimlarr">
+      <div class="toga">
+        <img src="./img/toga.png" alt="" />
+        <span class="men">
+          <h5>Men cotton jacket</h5>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+        <span class="j">
+          <span class="z">
+            <p class="ola">$150</p>
+            <del>$170</del>
+          </span>
+          <a class="ola" href="#">Buy Noe</a>
+        </span>
+      </div>
+      <div class="oya">
+        <img src="./img/qizil.png" alt="" />
+        <span class="sen">
+          <h5>Winter jacket of red</h5>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+        <span class="ji">
+          <span class="zz">
+            <p class="ola">$170</p>
+            <del>$190</del>
+          </span>
+          <a class="ola" href="#">Buy Noe</a>
+        </span>
+      </div>
+      <div class="oya">
+        <img src="./img/bola.png" alt="" />
+        <span class="sen">
+          <h5>Kids sweatshirt</h5>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+        <span class="ji">
+          <span class="zz">
+            <p class="ola">$160</p>
+            <del>$180</del>
+          </span>
+          <a class="ola" href="#">Buy Noe</a>
+        </span>
+      </div>
+    </div>
+    <div class="kiyimlarr">
+      <div class="toga">
+        <img src="./img/kok.png" alt="" />
+        <span class="men">
+          <h5>Kids jackrt</h5>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+        <span class="j">
+          <span class="z">
+            <p class="ola">$145</p>
+            <del>$165</del>
+          </span>
+          <a class="ola" href="#">Buy Noe</a>
+        </span>
+      </div>
+      <div class="oya">
+        <img src="./img/palto.png" alt="" />
+        <span class="sen">
+          <h5>Women brown coat</h5>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+        <span class="ji">
+          <span class="zz">
+            <p class="ola">$155</p>
+            <del>$175</del>
+          </span>
+          <a class="ola" href="#">Buy Noe</a>
+        </span>
+      </div>
+      <div class="oya">
+        <img src="./img/shapka.png" alt="" />
+        <span class="sen">
+          <h5>Winter fluffy coat</h5>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+        <span class="ji">
+          <span class="zz">
+            <p class="ola">$165</p>
+            <del>$190</del>
+          </span>
+          <a class="ola" href="#">Buy Noe</a>
+        </span>
+      </div>
+    </div>
+    <div class="aralash">
+      <img src="./img/chap.png" alt="" />
+      <div class="satiq">
+        <img src="./img/sariq.png" alt="" />
+        <span class="jakob">
+          <p>
+            New season and new style only for you in our autumn col up to 70%
+            off in Winter collection.
+          </p>
+          <h1>Jakob Mango</h1>
+          <p>Designer</p>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+      </div>
+
+      <div class="aralashma">
+        <img src="./img/jingalak.png" alt="" />
+        <span class="jakob">
+          <p>
+            New season and new style only for you in our autumn col up to 70%
+            off in Winter collection.
+          </p>
+          <h1>Haylie Sariso</h1>
+          <p>Designer</p>
+          <img src="./img/yulduzlarr.svg" alt="" />
+        </span>
+      </div>
+      <img src="./img/ong.png" alt="" />
+    </div>
+    <div class="market">
+      <div class="idis">
+        <span class="sdff">
+          <img src="./img/Logo.png" alt="" />
+          <img src="./img/FASHION.png" alt="" />
+        </span>
+
+        <p>
+          Our fashion generator will help <br />
+          you come up with the best <br />
+          ideas.
+        </p>
+      </div>
+      <div class="idis">
+        <h4>Menu</h4>
+        <p>About</p>
+        <p>Service</p>
+        <p>Market</p>
+      </div>
+      <div class="idis">
+        <h4>Company</h4>
+        <p>Support</p>
+        <p>Service</p>
+        <p>Contact</p>
+      </div>
+      <div class="idis">
+        <h4>Help</h4>
+        <p>Privacy policy</p>
+        <p>Delivey service</p>
+        <p>Rerms & Conditions</p>
+      </div>
+    </div>
+    <hr />
+    <div class="all">
+      <p>Copyright © 2021 Fashion, All rights reserved.</p>
+      <span class="logotip">
+        <img src="./img/twiter.png" alt="" />
+        <img src="./img/facebook.png" alt="" />
+        <img src="./img/instragram.png" alt="" />
+        <img src="./img/linkdin.png" alt="" />
+      </span>
+    </div>
+    <br /><br /><br /><br />
